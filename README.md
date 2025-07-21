@@ -2,17 +2,12 @@
 
 A simple and fun Tic Tac Toe game built with HTML, CSS, and JavaScript.
 
-## 🔥 Preview
-
-![Tic Tac Toe Screenshot]
-(../image.png)
-# My Tic Tac Toe Game
 
 A simple and fun Tic Tac Toe game built with HTML, CSS, and JavaScript.
 
 ## 🔥 Preview
 
-![Tic Tac Toe Screenshot](screenshot.png)
+![Tic Tac Toe Screenshot](image.png)
 
 ## 🛠 Features
 - Animated grid
